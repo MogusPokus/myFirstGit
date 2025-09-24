@@ -1,4 +1,4 @@
-const a = "hola en rama master con login mergeada";
+const a = "rama master con login mergeada";
 console.log(a);
 
 
